@@ -19,7 +19,7 @@ const tags = require('components/tags');
 
 const tru = require('topcoder-react-utils');
 
-module.exports = {
+export default {
   Avatar,
   ErrorMessage,
   Modal: tru.Modal,
